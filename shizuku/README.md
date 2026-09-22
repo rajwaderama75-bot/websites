@@ -1,4 +1,4 @@
----
+---adb shell /data/app/~~RtbxkjYiN7xnpLDjgmntZg==/moe.shizuku.privileged.api-dscjqitnQmRMOSAxpdGFvw==/lib/arm64/libshizuku.so
 home: true
 heroImage: /logo.png
 actionText: Learn more
